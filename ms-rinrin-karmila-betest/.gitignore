@@ -1,0 +1,8 @@
+node_modules/
+*.log
+*.cache
+.vscode/
+package-lock.json
+yarn.lock
+dist/
+build/
